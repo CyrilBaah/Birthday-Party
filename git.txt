@@ -1,0 +1,15 @@
+#1  git branch
+#2  git branch -d moma
+#2  git branch -d whitney
+#3  git branch unordered-list
+#3  git checkout unordered-list
+#5  git add index.html
+#6  git commit -m "Index.html added"
+#7  git checkout master
+#7  git merge unordered-list
+#8  git branch big-heading
+#9  git checkout big-heading
+#10 git add index.html
+#11 git commit -m "h1 made bigger"
+#12 git checkout master
+#12 git merge big-heading
